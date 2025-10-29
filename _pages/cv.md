@@ -13,7 +13,7 @@ redirect_from:
 
 **Computer Engineering Student | Backend Developer | Network & Security Enthusiast**
 
-📍 Kish-Tehran, Iran | 📧 your.email@example.com | 💻 [GitHub](https://github.com/gmohammad2424)
+📍 Kish-Tehran, Iran | 📧 m.gh.hadian@gmail.com | 💻 [GitHub](https://github.com/gmohammad2424)
 
 ---
 
