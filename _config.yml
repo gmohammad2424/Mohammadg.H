@@ -7,7 +7,7 @@ repository: "gmohammad2424/gmohammad2424.github.io"
 
 # Site Author
 author:
-  name: "Mohammad"
+  name: "Mohammadg.Hadian"
   avatar: "profile.png" # Add your photo to /images/ folder
   bio: "Final-year Computer Engineering student at Sharif University of Technology. Backend developer with passion for networking, cybersecurity, and algorithm optimization."
   location: "Kish-Tehran, Iran"
@@ -76,7 +76,7 @@ footer:
       url: "https://github.com/gmohammad2424"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/your-profile" # UPDATE THIS
+      url: "https://www.linkedin.com/in/mohammad-hadian-14b3a6317" # UPDATE THIS
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your.email@example.com" # UPDATE THIS
+      url: "mailto:m.gh.hadian@gmail.com" # UPDATE THIS
