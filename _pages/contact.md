@@ -9,11 +9,9 @@ I'm always interested in discussing technology, collaborating on interesting pro
 
 ## Contact Information
 
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-*Please update with your actual email address*
+📧 **Email**: [m.gh.hadian@gmail.com](mailto:m.gh.hadian@gmail.com)  
 
-💼 **LinkedIn**: [linkedin.com/in/your-profile](#)  
-*Please update with your LinkedIn profile URL*
+💼 **LinkedIn**: [linkedin.com/in/mohammad-hadian-14b3a6317/recent-activity/all/](#)  
 
 💻 **GitHub**: [github.com/gmohammad2424](https://github.com/gmohammad2424)
 
